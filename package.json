@@ -1,0 +1,27 @@
+{
+  "name": "cookie.js",
+  "version": "1.0.0",
+  "description": "operate cookie with js",
+  "main": "cookie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GerryLon/cookie.js.git"
+  },
+  "keywords": [
+    "cookie",
+    "js"
+  ],
+  "author": "GerryLon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GerryLon/cookie.js/issues"
+  },
+  "homepage": "https://github.com/GerryLon/cookie.js#readme",
+  "devDependencies": {
+    "webpack": "^3.3.0"
+  }
+}
