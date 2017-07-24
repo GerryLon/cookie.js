@@ -1,5 +1,5 @@
 ## cookie.js
-a simple js lib for get/set cookie, using like [jQuery.cookie.js](https://github.com/carhartl/jquery-cookie), getting implemented more simply.
+a simple js lib for getting/setting cookie, using like [jQuery.cookie.js](https://github.com/carhartl/jquery-cookie), getting implemented more simply.
 
 ## How To Build
 ```bash
